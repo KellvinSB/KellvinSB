@@ -19,4 +19,4 @@
 </div>
 
 <br>
-<p> Projetos em breve </p>
+<p align="center"> (Projetos em breve) </p>
